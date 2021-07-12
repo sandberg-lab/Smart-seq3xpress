@@ -4,13 +4,13 @@ The Smart-seq3 plate spinner is used for the pooling of libraries from Armadillo
 
 #### Printer settings
 
-Printer: Makerbot Replicator
-Material: Makerbot PLA
-Extruder: Smart Extruder+
-Layer Height: 0.3mm
-Infill: 10%
-Raft: No
-Support: No
+- Printer: Makerbot Replicator
+- Material: Makerbot PLA
+- Extruder: Smart Extruder+
+- Layer Height: 0.3mm
+- Infill: 10%
+- Raft: No
+- Support: No
 
 #### Usage
 
